@@ -32,9 +32,9 @@ A simple HTML 5 canvas game that adds "new players" the first time a user sends 
 
 MIT
 
-[github-watch-badge]: https://img.shields.io/github/watchers/coffee-driven-dev/coffee-driven-dev.com.svg?style=social
-[github-watch]: https://github.com/coffee-driven-dev/coffee-driven-dev.com/watchers
-[github-star-badge]: https://img.shields.io/github/stars/coffee-driven-dev/coffee-driven-dev.com.svg?style=social
-[github-star]: https://github.com/coffee-driven-dev/coffee-driven-dev.com/stargazers
+[github-watch-badge]: https://img.shields.io/github/watchers/coffee-driven-dev/project-ideas.svg?style=social
+[github-watch]: https://github.com/coffee-driven-dev/project-ideas/watchers
+[github-star-badge]: https://img.shields.io/github/stars/coffee-driven-dev/project-ideas.svg?style=social
+[github-star]: https://github.com/coffee-driven-dev/project-ideas/stargazers
 [prs-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
 [prs]: http://makeapullrequest.com
